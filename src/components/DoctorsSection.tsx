@@ -4,9 +4,9 @@ import doctor2 from "@/assets/doctor-2.jpg";
 import doctor3 from "@/assets/doctor-3.jpg";
 
 const doctors = [
-  { img: doctor1, name: "Dr. Ahmad Safi", role: "Lead Implantologist", intro: "15+ years of experience in dental implants and restorative care across Delhi." },
-  { img: doctor2, name: "Dr. Farzana Rahimi", role: "Cosmetic Dentist", intro: "Specialist in smile makeovers, veneers, and natural aesthetic treatments." },
-  { img: doctor3, name: "Dr. Hamid Wahidi", role: "Orthodontist", intro: "Focused on braces, aligners, and bite correction for children and adults." },
+  { img: doctor1, name: "Dr. Ankit Sharma", role: "Lead Implantologist", intro: "15+ years of experience in dental implants and restorative care across Delhi." },
+  { img: doctor2, name: "Dr. Priya Verma", role: "Cosmetic Dentist", intro: "Specialist in smile makeovers, veneers, and natural aesthetic treatments." },
+  { img: doctor3, name: "Dr. Rohan Mehta", role: "Orthodontist", intro: "Focused on braces, aligners, and bite correction for children and adults." },
 ];
 
 const DoctorsSection = () => {
